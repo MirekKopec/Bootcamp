@@ -148,7 +148,7 @@ header > nav ul > li > a:hover {
 
 /* jumbotron hero */
 .hero {
-  background-image: url("https://d2lm6fxwu08ot6.cloudfront.net/img-thumbs/960w/LNYEQYRA6G.jpg");
+  background-image: url("../images/build/jumbotron.jpg");
   background-position: center;
   background-size: cover;
   height: calc(100vh - 10px);
@@ -168,6 +168,7 @@ header > nav ul > li > a:hover {
 
 .slogan h1 {
   font-weight: 200; }
+
 .slogan h2 {
   font-weight: 900; }
 
@@ -330,6 +331,7 @@ section > .container {
 .numbers h2 {
   font-size: 70px;
   margin-bottom: 1px; }
+
 .numbers p {
   color: #00c7e8;
   font-size: 20px;
@@ -367,6 +369,7 @@ section > .container {
 .subrow p {
   margin-top: 0;
   text-transform: capitalize; }
+
 .subrow .col-4 p {
   font-weight: 600; }
 
@@ -385,115 +388,81 @@ section > .container {
   /* For phone and old tablets: */
   section > .container {
     margin: 0 auto; }
-
   header > nav ul {
     float: none;
     text-align: center;
     width: 100%; }
-
   header > nav ul > li {
     display: block; }
-
   header > nav ul > li > a {
     line-height: 55px; }
-
   header > nav > div > p {
     line-height: 55px; }
-
   label {
     display: block; }
-
   #menu-button:not(:checked) ~ ul {
     display: none; }
-
   #menu-button:checked ~ ul {
     display: block; }
-
   .slogan {
     line-height: 120%; }
-
   .benefits [class*='col-'] i {
     background-color: #00c7e8; }
-
   .benefits [class*='col-'] h2 {
     color: #00c7e8; }
-
   .gallery img {
     height: 100%;
     margin: 0 auto;
     width: 100%; }
-
   .gallery-item .layer {
     background: none;
     opacity: 1; }
-
   .circle {
     padding: 0; }
-
   .circle img {
     opacity: 1; }
-
   .member h3 {
     opacity: 1; }
-
   .image .row img {
     display: none; }
-
   .image .row h2 {
     font-size: 30px;
     margin-top: 20px;
     padding: 0;
     text-align: center; }
-
   .image .subrow {
     padding-left: 5px; }
-
   .numbers h2 {
     font-size: 60px; }
-
   .about .row {
     padding: 10px; }
-
   .about .row i {
     float: none;
     text-align: center; }
-
   .about h1::after {
     display: none; }
-
   .col-s-1 {
     width: 8.33%; }
-
   .col-s-2 {
     width: 16.66%; }
-
   .col-s-3 {
     width: 25%; }
-
   .col-s-4 {
     width: 33.33%; }
-
   .col-s-5 {
     width: 41.66%; }
-
   .col-s-6 {
     width: 50%; }
-
   .col-s-7 {
     width: 58.33%; }
-
   .col-s-8 {
     width: 66.66%; }
-
   .col-s-9 {
     width: 75%; }
-
   .col-s-10 {
     width: 83.33%; }
-
   .col-s-11 {
     width: 91.66%; }
-
   .col-s-12 {
     width: 100%; } }
 
